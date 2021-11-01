@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\bin\Debug\EncriptadoraASCII.exe.config
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\bin\Debug\EncriptadoraASCII.exe
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\bin\Debug\EncriptadoraASCII.pdb
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.Form1.resources
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.Properties.Resources.resources
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.exe
+C:\Users\Rodrigo\source\repos\EncriptadoraASCII\EncriptadoraASCII\obj\Debug\EncriptadoraASCII.pdb
